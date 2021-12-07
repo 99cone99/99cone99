@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/99cone99" target="blank"><img src="https://img.shields.io/twitter/follow/99cone99?logo=twitter&style=for-the-badge" alt="99cone99" /></a> </p>
 
-- 🔭 I’m currently working on **learning**
+- 🔭 I’m currently working on - **Pacman & Webdev**
 
-- 🌱 I’m currently learning **Games Programming**
+- 🌱 I’m currently learning - **Games Programming**
 
-- 🎮 I'm currently playing **League of legends**
+- 🎮 I'm currently playing - **League of legends**
 
-- 📫 How to reach me **dbaker99c99@hotmail.com**
+- 📫 How to reach me - **dbaker99c99@hotmail.com**
 
-- ⚡ Fun fact **If the cheese doesn't cut you from its sharpness, what is even the point**
+- ⚡ Fun fact - **If the cheese doesn't cut you from its sharpness, what is even the point**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
