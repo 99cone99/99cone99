@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **dbaker99c99@hotmail.com**
 
-- ⚡ Fun fact **I am my own worst enemy**
+- ⚡ Fun fact **The stronger the cheese the better**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
