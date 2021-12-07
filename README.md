@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Games Programming**
 
-- 💬 Ask me about **Competitive Pokémon or MTG**
+- 🎮 I'm currently playing **League of legends**
 
 - 📫 How to reach me **dbaker99c99@hotmail.com**
 
-- ⚡ Fun fact **First Person Shooters grind my bones to dust every time, yet I keep coming back**
+- ⚡ Fun fact **I am my own worst enemy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
