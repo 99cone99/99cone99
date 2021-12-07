@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **dbaker99c99@hotmail.com**
 
-- ⚡ Fun fact **The stronger the cheese the better**
+- ⚡ Fun fact **If the cheese doesn't cut you from its sharpness, what is even the point**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
