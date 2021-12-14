@@ -13,8 +13,6 @@
 
 - 📫 How to reach me - **dbaker99c99@hotmail.com**
 
-- ⚡ Fun fact - **If the cheese doesn't cut you from its sharpness, what is even the point**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/99cone99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="99cone99" height="30" width="40" /></a>
