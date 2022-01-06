@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning - **Games Programming**
 
-- 🎮 I'm currently playing - **League of legends**
+- 🎮 I'm currently playing - **Metro Exodus**
 
 - 📫 How to reach me - **dbaker99c99@hotmail.com**
 
