@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning - **Games Programming**
 
-- 🎮 I'm currently playing - **Metro Exodus**
+- 🎮 I'm currently playing - **Elden Ring**
 
 - 📫 How to reach me - **dbaker99c99@hotmail.com**
 
