@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning - **Games Programming**
 
-- 🎮 I'm currently playing - **Guilty Gear Strive**
+- 🎮 I'm currently playing - **Cyberpunk 2077: Phantom Liberty**
 
 - 📫 How to reach me - **dbaker99c99@hotmail.com**
 
