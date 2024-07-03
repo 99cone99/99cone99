@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=99cone99&label=Profile%20views&color=0e75b6&style=flat" alt="99cone99" /> </p>
 
-<p align="left"> <a href="https://twitter.com/99cone99" target="blank"><img src="https://img.shields.io/twitter/follow/99cone99?logo=twitter&style=for-the-badge" alt="99cone99" /></a> </p>
+- 🔭 I’m currently working on - **Broadening my Horizons**
 
-- 🔭 I’m currently working on - **FYP**
+- 🌱 I’m currently learning - **Pixel Art**
 
-- 🌱 I’m currently learning - **Games Programming**
-
-- 🎮 I'm currently playing - **Cyberpunk 2077: Phantom Liberty**
+- 🎮 I'm currently playing - **Elden Ring DLC + 2 Week Minecraft Phase**
 
 - 📫 How to reach me - **dbaker99c99@hotmail.com**
 
