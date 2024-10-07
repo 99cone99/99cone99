@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dan</h1>
-<h3 align="center">A (now graduated) games programming student from Staffordshire University</h3>
+<h3 align="center">Graduated from Staffordshire University with A First-Class in Computer Games Programming</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=99cone99&label=Profile%20views&color=0e75b6&style=flat" alt="99cone99" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning - **Pixel Art**
 
-- 🎮 I'm currently playing - **Elden Ring DLC + 2 Week Minecraft Phase**
+- 🎮 I'm currently playing - **Risk of Rain 2**
 
 - 📫 How to reach me - **dbaker99c99@hotmail.com**
 
