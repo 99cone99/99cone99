@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning - **Pixel Art**
 
-- 🎮 I'm currently playing - **Risk of Rain 2**
+- 🎮 I'm currently playing - **Terraria**
 
 - 📫 How to reach me - **dbaker99c99@hotmail.com**
 
